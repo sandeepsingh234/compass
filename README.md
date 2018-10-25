@@ -6,7 +6,7 @@ ScreenShot Of the App
 
 
 # Download the APK version From Here
-https://github.com/sandeepsingh234/compass/raw/master/compass.apk
+https://raw.githubusercontent.com/sandeepsingh234/compass/master/compass.apk
 
 # Download the Source Code From Here
 https://drive.google.com/open?id=1nMCzbBOe4Zcz3Wi9iwPtswER8WblsZZw
